@@ -33,4 +33,4 @@ For My capstone Project I have 3 Notebooks:
 •	Support Vector Machine
 •	Resnet50V2
 - Conclusion
-There will be A file with all the pickeled models
+
